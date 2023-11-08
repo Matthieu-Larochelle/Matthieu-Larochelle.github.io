@@ -1,17 +1,25 @@
 # Matthieu-Larochelle.github.io
 Personal website for Matthieu Larochelle
 
+
+
 Contacts:
+
+
 
 Univeristy email --> mrlaroch@ualberta.ca
 
 Personal email --> matraylarg@gmail.com
+
+
 
 Currently:
 
 Computing Science student at the University of Alberta
 
 Coding Instructor at Code Ninjas
+
+
 
 Previous/Current Projects:
 
